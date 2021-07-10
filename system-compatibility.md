@@ -4,4 +4,3 @@ narwhal 1.3.4, the most recent release, is officially compatible with the follow
 - Pixel 4a
 - moto g stylus
 - moto g power
-- moto g4 play (with 16GB external SD card)
