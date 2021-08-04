@@ -19,6 +19,7 @@ narwhal 1.5 (Dev Release) is officially compatible with the following devices.
 - Pixel 4a
 - moto g stylus
 - moto g power
+- moto g (1st gen)
 - Droid Turbo XT1254 (experimental support)
 - HTC Desire 626 (experimental support)
 - moto g4 play (experimental support)
