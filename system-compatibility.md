@@ -1,11 +1,12 @@
 ## narwhal (frappeOS) System Compatibility
-narwhal 1.3.4 (Beta Release) is officially compatible with the following devices:
+narwhal 1.4.1 (Beta Release) is officially compatible with the following devices:
 - Pixel 1 XL (128GB)
+- Pixel 3a
 - Pixel 4a
 - moto g stylus
 - moto g power
 
-narwhal 1.4 (Canary Release) is officially compatible with the following devices.
+narwhal 1.4.2 (Canary Release) is officially compatible with the following devices.
 - Pixel 1 XL (128GB)
 - Pixel 3a
 - Pixel 4a
